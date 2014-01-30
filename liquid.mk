@@ -25,9 +25,6 @@ $(call inherit-product, device/lge/ls980/ls980.mk)
 # phone
 $(call inherit-product, vendor/liquid/config/common_phone.mk)
 
-# telephony
-$(call inherit-product, vendor/liquid/config/common_cdma.mk)
-
 ## product
 PRODUCT_DEVICE := ls980
 PRODUCT_BRAND := LGE
