@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
 
 # OTA ID
 PRODUCT_PROPERTY_OVERRIDES += \
-    otaupdater.otaid=liquidls980
+    otaupdater.otaid=legols980
 
 # NFC packages
 PRODUCT_PACKAGES += \
