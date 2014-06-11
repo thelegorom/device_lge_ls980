@@ -6,10 +6,10 @@
    "revision": "kitkat"
  },
  {
-   "remote": "gh",
-   "repository": "Deathly-Experience/deathly_g2_kernel",
+   "remote":      "gh",
+   "repository":  "SlimRoms/kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
-   "revision": "kitkat"
+   "branch":      "kk4.4"
  },
  {
    "remote": "cm",
