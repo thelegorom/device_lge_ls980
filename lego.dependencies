@@ -7,9 +7,9 @@
  },
  {
    "remote": "gh",
-   "repository": "Liquid-G2/deathly_g2_kernel",
+   "repository": "dr87/SimpleKernel",
    "target_path": "kernel/lge/msm8974",
-   "revision": "kitkat"
+   "revision": "cleanaosp"
  },
  {
    "remote": "cm",
