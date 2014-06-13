@@ -7,9 +7,9 @@
  },
  {
    "remote": "gh",
-   "repository": "dr87/SimpleKernel",
+   "repository": "AOSPA-legacy/android_kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
-   "revision": "cleanaosp"
+   "revision": "kitkat"
  },
  {
    "remote": "cm",
